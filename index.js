@@ -1,0 +1,9 @@
+export { default as en } from "./locales/en";
+export { default as cn } from "./locales/cn";
+export { default as de } from "./locales/de";
+export { default as es } from "./locales/es";
+export { default as fr } from "./locales/fr";
+export { default as it } from "./locales/it";
+export { default as ja } from "./locales/ja";
+export { default as pt } from "./locales/pt";
+export { default as ru } from "./locales/ru";
